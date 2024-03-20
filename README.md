@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi there, I am Justina 👋 
+**Based in Berlin, from Lituania, working remotelly as a Web Developer!**
 
+🌱 I’m still growing into this carrer as I am a career switcher and I am also a mum.
+
+🔧 I’m currently working on mastering Javascript and Typescript and learning Python for the Backend.
+
+🔭 I'm searching the ways to grow into a teacher/speaker/mentor/couch.
+
+⚡ Fun facts: I can juggle, I sing Lithuanian folklore and I am managing the informal lithuanina (Pre)School In Berlin for kids.
 <!--
 **najuste/najuste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
